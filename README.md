@@ -1,2 +1,4 @@
 # JPMorgan-Chase-Co.-Quantitative-Research-Project
-Python notebooks used to complete each task.
+These notebooks contain my Python code to complete each task for the JPMorgan Chase & Co. Quantitative Research Virtual Project. 
+
+For view by employers or colleagues. 
